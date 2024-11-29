@@ -1,1 +1,1 @@
-![alt text](my_image.png)
+![alt text](image.png)
